@@ -2,9 +2,8 @@
 <h1 align="center">Hi 👋, my name is Carlos Henrique</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="center"> - 🌱 Full Stack developer currently working as Front-End </p>
-<p align="center"> - 📫 Reach me out here: carlos.henrique17.chr@gmail.com </p>
-<p align="center"><a href="https://portfolio-carlos-hr.vercel.app" target="_blank"/> - 💻 My Portfolio </p>
+<p align="center"> - 🌱 Full Stack developer </p>
+<p align="center"> - 📫 Reach me out here: chrodrigues.dev@gmail.com </p>
 </br>
 
 <h3 align="center">Connect with me:</h3>
